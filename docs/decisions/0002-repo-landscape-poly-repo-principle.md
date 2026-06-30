@@ -3,6 +3,7 @@
 - Status: accepted
 - Date: 2026-06-30
 - Promoted from: [idea 0001](../ideas/0001-repo-landscape-structuring.md)
+- Amended by: [ADR 0003](0003-repo-continuity-defer-pilot-seat.md)
 
 ## Context
 

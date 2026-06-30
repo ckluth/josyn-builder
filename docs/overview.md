@@ -20,6 +20,7 @@ You can ask the agent to **regenerate the overview** at any time.
 | [0003 Dependency-graph management](ideas/0003-dependency-graph-management.md) | 2026-06-30 | seed |
 | [0004 Overview / platform-manifest mechanism](ideas/0004-overview-platform-manifest.md) | 2026-06-30 | seed |
 | [0005 Repo naming convention](ideas/0005-repo-naming-convention.md) | 2026-06-30 | seed |
+| [0006 This repo becomes the agentic pilot-seat](ideas/0006-repo-becomes-agentic-pilot-seat.md) | 2026-06-30 | seed |
 
 ## Decisions
 
@@ -27,6 +28,7 @@ You can ask the agent to **regenerate the overview** at any time.
 |------|---------|-------|
 | [0001 Adopt decision-trail](decisions/0001-adopt-decision-trail.md) | 2026-06-30 | accepted |
 | [0002 Repo-landscape: poly-repo principle and repo taxonomy](decisions/0002-repo-landscape-poly-repo-principle.md) | 2026-06-30 | accepted |
+| [0003 Repo continuity: defer the pilot-seat question](decisions/0003-repo-continuity-defer-pilot-seat.md) | 2026-06-30 | accepted |
 
 ## Plans
 

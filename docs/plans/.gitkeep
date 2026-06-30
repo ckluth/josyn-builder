@@ -1,0 +1,7 @@
+# Plans live here.
+#
+# Each plan is a markdown file named NNNN-kebab-title.md, with:
+#   - Status: draft | active | done | abandoned
+#   - Implements: link to the ADR it carries out
+#   - a task checklist using GitHub task-list markdown (- [ ] / - [x])
+# See ../working-method.md. Delete this file once you add your first plan.

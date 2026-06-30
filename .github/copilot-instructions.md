@@ -53,6 +53,12 @@ independent artifact families.
 - **Confirmation guard.** Do not rush into writing, editing, or implementing.
   First briefly explain what you intend to do, then wait for explicit approval.
   Discussing and proposing is always fine; acting needs a green light.
+- **PoC repos are read-only ([ADR 0004](../docs/decisions/0004-poc-repos-read-only-archive-before-reuse.md)).**
+  The sibling `josyn-*` PoC repos under `C:\DevGit` are read-only *sources* — only
+  ever read from (extract / copy / re-implement), **never edited in place**, even
+  "in the heat of the editing moment." Target repos are rebuilt fresh. On a name
+  conflict, the existing repo is **moved into an archive first** (with its `.git`
+  intact), then the fresh repo is created — never overwrite or delete a source.
 - **Artifact numbers are ordinal only.** Assign the next unused number in that
   family. `ideas/`, `decisions/`, and `plans/` are independent sequences. Never
   derive a number from a related artifact — a plan implementing ADR-0004 is *not*

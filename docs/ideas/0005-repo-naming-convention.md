@@ -1,8 +1,9 @@
 # 5. Repo naming convention
 
-- Status: seed
+- Status: promoted
 - Date: 2026-06-30
 - Raised by: [ADR 0002](../decisions/0002-repo-landscape-poly-repo-principle.md)
+- Promoted to: [ADR 0005](../decisions/0005-repo-naming-convention.md)
 
 ## The thought
 
